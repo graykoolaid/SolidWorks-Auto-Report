@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.csproj.ResolveComReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\bin\Release\MyFirstSWAddinCS.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\bin\Release\MyFirstSWAddinCS.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\bin\Release\MyFirstSWAddinCS.tlb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\bin\Release\solidworkstools.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.Form1.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\MyFirstSWAddinCS\MyFirstSWAddinCS\obj\Release\MyFirstSWAddinCS.Properties.Resources.resources
